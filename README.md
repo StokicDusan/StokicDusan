@@ -21,21 +21,3 @@ working on a couple of personal projects, including
 
 </div>
 <!-- end statics fun section -->
-
-<!-- start dynamic spotify spngs API -->
-### i like listening to music while i code :headphones:
-
-<!-- Nothing weird to see here -->
-<p align="center">currently jamming to</p>
-<p align="center">
-  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
-</p>
-<!-- end dynamic spotify spngs API -->
