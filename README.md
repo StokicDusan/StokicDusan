@@ -27,6 +27,7 @@ working on a couple of personal projects, including
 <img align="left" src="assets/icons8-python.svg" />
 <img align="left" src="assets/icons8-raspberry-pi.svg" />
 <img align="left" src="assets/icons8-visual-studio-code.svg" />
+<br/>  
 
 <!-- end languages and tools -->
 #### GitHub stats:  
