@@ -48,7 +48,7 @@ working on a couple of personal projects, including
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=dark) <img src="https://github.com/StokicDusan/StokicDusan/blob/master/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
 
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
