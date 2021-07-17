@@ -1,4 +1,4 @@
-### Hi there, I'm Dusan 👋
+## Hi there, I'm Dusan 👋
   [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87)
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I Graduated from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade and love open source.
@@ -6,14 +6,14 @@ I mainly code in Python and Java, but I am always learning. I am currently
 working on a couple of personal projects, including 
 [IEEE-802.3av](https://github.com/StokicDusan/IEEE-802.3av), which is a simulation of IEEE 802.3av network in Python.
 <!-- start how to reach me -->
-#### 📫 How to reach me:
+### 📫 How to reach me:
   
-  [<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="3.5%"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="3.5%"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
-  <!-- end how to reach me -->
+<!-- end how to reach me -->
 
-  <!-- start languages and tools -->
-  #### 👨🏻‍💻 Languages and Tools <br />
+<!-- start languages and tools -->
+### 👨🏻‍💻 Languages and Tools <br />
 <img align="left" src="assets/icons/icons8-android-os.svg" />
 <img align="left" src="assets/icons/icons8-arduino.svg" />
 <img align="left" src="assets/icons/icons8-azure.svg" />
@@ -36,9 +36,10 @@ working on a couple of personal projects, including
 <br/>  
 <br/>  
 <br/>  
+<br/>  
 <!-- end languages and tools -->
 
-#### GitHub stats:  
+### GitHub stats:  
 
 <!-- start statics fun section -->
 <div>
