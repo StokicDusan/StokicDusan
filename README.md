@@ -25,10 +25,10 @@ working on a couple of personal projects, including
 <img align="left" src="assets/icons/icons8-git.svg" />
 <img align="left" src="assets/icons/icons8-latex.svg" />
 <img align="left" src="assets/icons/icons8-matlab.svg" />
-<img align="left" src="assets/icons/GNU_Octave-Logo.wine-1.svg" />
 <img align="left" src="assets/icons/icons8-raspberry-pi.svg" />
 <img align="left" src="assets/icons/icons8-mysql-logo.svg" />
 <img align="left" src="assets/icons/icons8-python.svg" />
+<img align="left" src="assets/icons/GNU_Octave-Logo.wine-1.svg" />
 <img align="left" src="assets/icons/docker.svg" />
 <img align="left" src="assets/icons/icons8-visual-studio-code.svg" />
 <br/>  
