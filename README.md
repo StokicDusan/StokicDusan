@@ -14,22 +14,22 @@ working on a couple of personal projects, including
 
 <!-- start languages and tools -->
 ### 👨🏻‍💻 Languages and Tools <br />
-<img align="left" src="assets/icons/icons8-android-os.svg" />
-<img align="left" src="assets/icons/icons8-arduino.svg" />
-<img align="left" src="assets/icons/icons8-azure.svg" />
-<img align="left" src="assets/icons/icons8-c++.svg" />
 <img align="left" src="assets/icons/icons8-java.svg" />
-<img align="left" src="assets/icons/wamp.svg" />
+<img align="left" src="assets/icons/icons8-mysql-logo.svg" />
+<img align="left" src="assets/icons/wampServer-logo1.svg" />
+<img align="left" src="assets/icons/icons8-android-os.svg" />
 <img align="left" src="assets/icons/icons8-html-5.svg" />
 <img align="left" src="assets/icons/icons8-php-logo.svg" />
-<img align="left" src="assets/icons/icons8-git.svg" />
-<img align="left" src="assets/icons/icons8-latex.svg" />
-<img align="left" src="assets/icons/icons8-matlab.svg" />
-<img align="left" src="assets/icons/GNU_Octave-Logo.wine-1.svg" />
-<img align="left" src="assets/icons/icons8-raspberry-pi.svg" />
-<img align="left" src="assets/icons/icons8-mysql-logo.svg" />
+<img align="left" src="assets/icons/icons8-c++.svg" />
 <img align="left" src="assets/icons/icons8-python.svg" />
+<img align="left" src="assets/icons/icons8-matlab.svg" />
+<img align="left" src="assets/icons/gnu_Octave-Logo.wine-1.svg" />
+<img align="left" src="assets/icons/icons8-git.svg" />
+<img align="left" src="assets/icons/icons8-azure.svg" />
 <img align="left" src="assets/icons/docker.svg" />
+<img align="left" src="assets/icons/icons8-raspberry-pi.svg" />
+<img align="left" src="assets/icons/icons8-latex.svg" />
+<img align="left" src="assets/icons/icons8-arduino.svg" />
 <img align="left" src="assets/icons/icons8-visual-studio-code.svg" />
 <br/>  
 <br/>  
