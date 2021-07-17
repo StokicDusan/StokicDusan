@@ -19,11 +19,15 @@ working on a couple of personal projects, including
 <img align="left" src="assets/icons8-azure.svg" />
 <img align="left" src="assets/icons8-c++.svg" />
 <img align="left" src="assets/icons8-java.svg" />
+<img align="left" src="assets/wamp.svg" />
+<img align="left" src="assets/icons8-html-5.svg" />
+<img align="left" src="assets/icons8-php-logo.svg" />
 <img align="left" src="assets/icons8-git.svg" />
 <img align="left" src="assets/icons8-latex.svg" />
 <img align="left" src="assets/icons8-matlab.svg" />
+<img align="left" src="assets/GNU_Octave-Logo.wine.svg" />
 <img align="left" src="assets/icons8-mysql-logo.svg" />
-<img align="left" src="assets/icons8-netbeans.svg" />
+<img align="left" src="assets/docker.svg" />
 <img align="left" src="assets/icons8-python.svg" />
 <img align="left" src="assets/icons8-raspberry-pi.svg" />
 <img align="left" src="assets/icons8-visual-studio-code.svg" />
