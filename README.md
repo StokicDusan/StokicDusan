@@ -26,7 +26,7 @@ working on a couple of personal projects, including
 <!-- end how to reach me -->
 
 <!-- start languages and tools -->
-### 👨🏻‍💻 Languages and Tools <br />
+### 👨🏻‍💻 Languages and Tools: <br />
 <img align="left" src="assets/icons/icons8-java.svg" />
 <img align="left" src="assets/icons/icons8-mysql-logo.svg" />
 <img align="left" src="assets/icons/wampServer-logo1.svg" />
