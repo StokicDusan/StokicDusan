@@ -6,6 +6,8 @@ I mainly code in Python and Java, but I am always learning. I am currently
 working on a couple of personal projects, including 
 [IEEE-802.3av](https://github.com/StokicDusan/IEEE-802.3av), which is a simulation of IEEE 802.3av network in Python.
 
+
+<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/fourier.gif" alt="fourier" align="right" width="500" height="auto" />
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
 
 
@@ -14,7 +16,7 @@ working on a couple of personal projects, including
 - 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, PuyoPuyo and Sherlock Holmes
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: My name is an anagram of "I Play Data"
+- ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 <!-- start how to reach me -->
 ### 📫 How to reach me:
