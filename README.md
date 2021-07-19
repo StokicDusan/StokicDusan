@@ -39,7 +39,7 @@ working on a couple of personal projects, including
 <br/>  
 <!-- end languages and tools -->
 
-### GitHub stats:  
+### :rocket: GitHub stats:  
 
 <!-- start statics fun section -->
 <div>
