@@ -5,6 +5,17 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I Gr
 I mainly code in Python and Java, but I am always learning. I am currently
 working on a couple of personal projects, including 
 [IEEE-802.3av](https://github.com/StokicDusan/IEEE-802.3av), which is a simulation of IEEE 802.3av network in Python.
+
+<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
+
+
+<!-- Start small bullet points -->
+- 🔭 I’m currently unemployed <!--working as a Software Developer in Belgrade, Serbia -->
+- 🌱 I’m currently learning Node.js and Express.js
+- 💬 Ask me about Mathematics, PuyoPuyo and Sherlock Holmes
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: My name is an anagram of "I Play Data"
+<!-- End small bullet points -->
 <!-- start how to reach me -->
 ### 📫 How to reach me:
   
@@ -48,7 +59,7 @@ working on a couple of personal projects, including
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=dark) <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" width="200" height="auto" />
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=dark)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
