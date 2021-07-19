@@ -52,7 +52,7 @@ working on a couple of personal projects, including
 <br/>  
 <!-- end languages and tools -->
 
-### :rocket: GitHub stats:  
+### 📃:rocket: GitHub stats:  
 
 <!-- start statics fun section -->
 <div>
