@@ -8,7 +8,6 @@ working on a couple of personal projects, including
 
 
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/fourier.gif" alt="fourier" align="right" width="600" height="auto" />
-<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
 
 
 <!-- Start small bullet points -->
@@ -31,9 +30,6 @@ working on a couple of personal projects, including
 <img align="left" src="assets/icons/icons8-mysql-logo.svg" />
 <img align="left" src="assets/icons/wampServer-logo1.svg" />
 <img align="left" src="assets/icons/icons8-android-os.svg" />
-<img align="left" src="assets/icons/icons8-html-5.svg" />
-<img align="left" src="assets/icons/icons8-php-logo.svg" />
-<img align="left" src="assets/icons/icons8-c++.svg" />
 <img align="left" src="assets/icons/icons8-python.svg" />
 <img align="left" src="assets/icons/icons8-matlab.svg" />
 <img align="left" src="assets/icons/gnu_Octave-Logo.wine-1.svg" />
@@ -44,11 +40,11 @@ working on a couple of personal projects, including
 <img align="left" src="assets/icons/icons8-latex.svg" />
 <img align="left" src="assets/icons/icons8-arduino.svg" />
 <img align="left" src="assets/icons/icons8-visual-studio-code.svg" />
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br/>  
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
+<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a>
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>
 <br/>  
 <!-- end languages and tools -->
 
