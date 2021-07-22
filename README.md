@@ -3,8 +3,7 @@
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I Graduated from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade and love open source.
 I mainly code in Python and Java, but I am always learning. I am currently
-working on a couple of personal projects, including 
-[IEEE-802.3av](https://github.com/StokicDusan/IEEE-802.3av), which is a simulation of IEEE 802.3av network in Python.
+working on a couple of personal projects.
 
 
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
