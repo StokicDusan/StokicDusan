@@ -25,20 +25,20 @@ working on a couple of personal projects.
 
 <!-- start languages and tools -->
 ### 👨🏻‍💻 Languages and Tools: <br />
-<img align="left" src="assets/icons/icons8-java.svg" />
-<img align="left" src="assets/icons/icons8-mysql-logo.svg" />
-<img align="left" src="assets/icons/wampServer-logo1.svg" />
-<img align="left" src="assets/icons/icons8-android-os.svg" />
-<img align="left" src="assets/icons/icons8-python.svg" />
-<img align="left" src="assets/icons/icons8-matlab.svg" />
-<img align="left" src="assets/icons/gnu_Octave-Logo.wine-1.svg" />
-<img align="left" src="assets/icons/icons8-git.svg" />
-<img align="left" src="assets/icons/icons8-azure.svg" />
-<img align="left" src="assets/icons/docker.svg" />
-<img align="left" src="assets/icons/icons8-raspberry-pi.svg" />
-<img align="left" src="assets/icons/icons8-latex.svg" />
-<img align="left" src="assets/icons/icons8-arduino.svg" />
-<img align="left" src="assets/icons/icons8-visual-studio-code.svg" />
+<a href="https://www.w3schools.com/java/default.asp" target="_blank"><img src="assets/icons/icons8-java.svg" alt="java" width="48" height="48"/> </a>
+<a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img src="assets/icons/icons8-mysql-logo.svg" alt="mysql" width="48" height="48"/> </a>
+<a href="https://www.wampserver.com/en/" target="_blank"><img src="assets/icons/wampServer-logo1.svg" alt="wamp" width="48" height="48" /> </a>
+<a href="https://www.android.com/" target="_blank"><img src="assets/icons/icons8-android-os.svg" alt="android" width="48" height="48" /> </a>
+<a href="https://www.w3schools.com/python/default.asp" target="_blank"><img src="assets/icons/icons8-python.svg" alt="python" width="48" height="48" /> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="assets/icons/icons8-matlab.svg" alt="matlab" width="48" height="48" /> </a>
+<a href="https://www.gnu.org/software/octave/index" target="_blank"><img src="assets/icons/gnu_Octave-Logo.wine-1.svg" alt="octave" width="48" height="48" /> </a>
+<a href="https://www.w3schools.com/GIT/default.asp" target="_blank"><img src="assets/icons/icons8-git.svg" alt="git" width="48" height="48" /> </a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="assets/icons/icons8-azure.svg" alt="azure" width="48" height="48" /> </a>
+<a href="https://www.docker.com/" target="_blank"><img src="assets/icons/docker.svg" alt="docker" width="48" height="48" /> </a>
+<a href="https://www.raspberrypi.org/" target="_blank"><img src="assets/icons/icons8-raspberry-pi.svg" alt="raspberrypi" width="48" height="48" /> </a>
+<a href="https://www.latex-project.org/" target="_blank"><img src="assets/icons/icons8-latex.svg" alt="latex" width="48" height="48" /> </a>
+<a href="https://www.arduino.cc/" target="_blank"><img src="assets/icons/icons8-arduino.svg" alt="arduino" width="48" height="48" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="assets/icons/icons8-visual-studio-code.svg" alt="vscode" width="48" height="48" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/> </a>
