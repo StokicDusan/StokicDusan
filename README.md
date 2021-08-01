@@ -1,5 +1,5 @@
 ## Hi there, I'm Dusan 👋
-  [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87)
+  [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87{:target="_blank"})
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I Graduated from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade and love open source.
 I mainly code in Python and Java, but I am always learning. I am currently
