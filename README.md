@@ -11,10 +11,10 @@ working on a couple of personal projects.
 
 
 <!-- Start small bullet points -->
+<!-- Start small bullet points- 😄 Pronouns: He / Him -->
 - 🔭 I’m currently unemployed <!--working as a Software Developer in Belgrade, Serbia -->
 - 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, PuyoPuyo and Sherlock Holmes
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 <!-- start how to reach me -->
