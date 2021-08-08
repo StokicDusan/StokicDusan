@@ -2,9 +2,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) 
 [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87?tab=profile)
 
-I'm a Telecommunications and Information Technologies Engineer from Serbia. I Graduated from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade and love open source.
-I mainly code in Python and Java, but I am always learning. I am currently
-working on a couple of personal projects.
+I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I am always learning, I'm currently working on a couple of personal projects.
 
 
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -13,6 +11,7 @@ working on a couple of personal projects.
 <!-- Start small bullet points -->
 <!-- Start small bullet points- 😄 Pronouns: He / Him -->
 - 🔭 I’m currently unemployed <!--working as a Software Developer in Belgrade, Serbia -->
+- 🎓 I graduated from School of Electrical Engineering University of Belgrade
 - 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, PuyoPuyo and Sherlock Holmes
 - ⚡ Fun fact: 4 has four letters
