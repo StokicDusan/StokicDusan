@@ -13,7 +13,7 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I ha
 - 🔭 I’m currently unemployed <!--working as a Software Developer in Belgrade, Serbia -->
 - 🎓 I graduated from School of Electrical Engineering University of Belgrade
 - 🌱 I’m currently learning Node.js and Express.js
-- 💬 Ask me about Mathematics, PuyoPuyo and Sherlock Holmes
+- 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 <!-- start how to reach me -->
