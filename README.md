@@ -1,12 +1,10 @@
 ## Hi there, I'm Dusan 👋
-[![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) 
+[![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)
 [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87?tab=profile)
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I am always learning, I'm currently working on a couple of personal projects.
 
-
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="200" height="auto" />
-
 
 <!-- Start small bullet points -->
 <!-- Start small bullet points- 😄 Pronouns: He / Him -->
@@ -18,7 +16,7 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I ha
 <!-- End small bullet points -->
 <!-- start how to reach me -->
 ### 📫 How to reach me:
-  
+
 [<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="36" height="36"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
 
 <!-- end how to reach me -->
@@ -63,5 +61,3 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I ha
 
 </div>
 <!-- end statics fun section -->
-
-
