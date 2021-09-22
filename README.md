@@ -60,4 +60,6 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I ha
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
+
 <!-- end statics fun section -->
+
