@@ -9,17 +9,16 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- Start small bullet points -->
 <!-- Start small bullet points- 😄 Pronouns: He / Him -->
-- 🔭 I’m currently unemployed <!--working as a Software Developer in Belgrade, Serbia -->
+- 🔭 I’m currently unemployed <!--working as a ... -->
 - 🎓 I graduated from School of Electrical Engineering University of Belgrade
 - 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
+
 <!-- start how to reach me -->
-### 📫 How to reach me:
-
+### 📫 How to reach me:  
 [<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="36" height="36"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
-
 <!-- end how to reach me -->
 
 <!-- start languages and tools -->
@@ -46,10 +45,9 @@ I'm currently pursuing a master's degree in Information and communication techno
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>
 <br/>  
 <!-- end languages and tools -->
-
-### 📃:rocket: GitHub stats:  
-
+  
 <!-- start statics fun section -->
+### 📃:rocket: GitHub stats:  
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=stokicdusan&show_icons=true&theme=tokyonight&count_private=true&line_height=40'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stokicdusan&theme=tokyonight&hide_langs_below=4' />
@@ -61,6 +59,4 @@ I'm currently pursuing a master's degree in Information and communication techno
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
-
 <!-- end statics fun section -->
-
