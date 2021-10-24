@@ -13,6 +13,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 - 🎓 I graduated from School of Electrical Engineering University of Belgrade
 - 🌱 I’m currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
+- 📄 Know more about me on my [portfolio](https://stokicdusan.github.io/) page
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 
