@@ -55,7 +55,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=dark)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)  
 
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
