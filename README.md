@@ -7,7 +7,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 My profile picture was made with https://javier.xyz/pintr/
 
-<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="325" height="auto" />
+<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
 
 <!-- Start small bullet points -->
 <!-- Start small bullet points- 😄 Pronouns: He / Him -->
