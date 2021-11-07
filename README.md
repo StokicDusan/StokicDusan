@@ -11,9 +11,9 @@ Profile picture was made with https://javier.xyz/pintr/
 
 <!-- Start small bullet points -->
 <!-- Start small bullet points- 😄 Pronouns: He / Him -->
-- 🔭 currently unemployed <!--working as a ... -->
-- 🎓 I graduated from School of Electrical Engineering University of Belgrade
-- 🌱 I’m currently learning Node.js and Express.js
+- 🔭 Currently unemployed <!--working as a ... -->
+- 🎓 Graduated from School of Electrical Engineering University of Belgrade
+- 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - 📄 Know more about me on my [portfolio](https://stokicdusan.github.io/) page
 - ⚡ Fun fact: 4 has four letters
