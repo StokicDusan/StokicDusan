@@ -2,7 +2,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)
 [![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87?tab=profile)
 
-I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I am always learning.  
+I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
 
 Profile picture was made with https://javier.xyz/pintr/
@@ -10,12 +10,12 @@ Profile picture was made with https://javier.xyz/pintr/
 <img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
 
 <!-- Start small bullet points -->
-<!-- Start small bullet points- 😄 Pronouns: He / Him -->
 - 🔭 Currently unemployed <!--working as a ... -->
 - 🎓 Graduated from School of Electrical Engineering University of Belgrade
 - 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - 📄 Know more about me on my [portfolio](https://stokicdusan.github.io/) page
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 
