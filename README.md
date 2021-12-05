@@ -1,6 +1,9 @@
 ## Hi there, I'm Dusan 👋
 [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)
-[![StokicDusan StackOverflow](https://stackoverflow-badge.vercel.app/?userID=16315116)](https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87?tab=profile)
+
+<a href="https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87"><img src="https://stackoverflow.com/users/flair/16315116.png" width="208" height="58" alt="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://tex.stackexchange.com/users/245337/du%c5%a1an-stoki%c4%87"><img src="https://tex.stackexchange.com/users/flair/245337.png" width="208" height="58" alt="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for eyllanesc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
