@@ -1,5 +1,4 @@
 ## Hi there, I'm Dusan 👋
-🎉 🎈 🎉 🎈 🚀 [![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan) 🚀 🎈 🎉 🎈 🎉 
 
 <a href="https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87"><img src="https://stackoverflow.com/users/flair/16315116.png?theme=dark" width="208" height="58" alt="profile for Dušan Stokić at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dušan Stokić at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <a href="https://tex.stackexchange.com/users/245337/du%c5%a1an-stoki%c4%87"><img src="https://tex.stackexchange.com/users/flair/245337.png?theme=dark" width="208" height="58" alt="profile for Dušan Stokić at TeX - LaTeX Stack Exchange, Q&amp;A for users of TeX, LaTeX, ConTeXt, and related typesetting systems" title="profile for Dušan Stokić at TeX - LaTeX Stack Exchange, Q&amp;A for users of TeX, LaTeX, ConTeXt, and related typesetting systems"></a>
@@ -22,6 +21,8 @@ Profile picture was made with https://javier.xyz/pintr/
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)](https://badges.pufler.dev/visits/stokicdusan/stokicdusan)
 
 <!-- start how to reach me -->
 ### 📫 How to reach me:  
