@@ -13,7 +13,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 Profile picture was made with https://javier.xyz/pintr/
 
-<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
 
 <!-- Start small bullet points -->
 - 🔭 Currently unemployed <!--working as a ... -->
@@ -62,8 +62,8 @@ Profile picture was made with https://javier.xyz/pintr/
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stokicdusan&theme=tokyonight&hide_langs_below=4' />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)  
+  
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)<img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" width="auto" height="auto" />  
 
 <img src="https://activity-graph.herokuapp.com/graph?username=stokicdusan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
