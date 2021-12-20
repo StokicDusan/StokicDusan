@@ -13,7 +13,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 Profile picture was made with https://javier.xyz/pintr/
 
-<img src="https://github.com/StokicDusan/StokicDusan/blob/main/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="/assets/AS002550_06.gif" alt="side Image" align="right" width="250" height="auto" />
 
 <!-- Start small bullet points -->
 - 🔭 Currently unemployed <!--working as a ... -->
