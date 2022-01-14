@@ -16,7 +16,7 @@ Profile picture was made with https://javier.xyz/pintr/
 <img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="auto" height="auto" />
 
 <!-- Start small bullet points -->
-- 🔭 Currently unemployed <!--working as a ... -->
+- 🔭 Currently job hunting <!--working as a ... -->
 - 🎓 Graduated from School of Electrical Engineering University of Belgrade
 - 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
