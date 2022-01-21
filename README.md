@@ -65,7 +65,11 @@ Profile picture was made with https://javier.xyz/pintr/
   
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)<img src="/assets/AS002550_06.gif" alt="puyo" width="auto" height="195" />  
 
-![contrib-graph](./profile-3d-contrib/profile-night-green.svg)
-
+[![contrib-graph][contrib-graph-svg]][contrib-graph-url]
+  
 </div>
+
 <!-- end statics fun section -->
+
+[contrib-graph-svg]: ./profile-3d-contrib/profile-night-green.svg
+[contrib-graph-url]: https://github.com/yoshi389111/github-profile-3d-contrib
