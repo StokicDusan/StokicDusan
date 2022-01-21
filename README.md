@@ -58,15 +58,13 @@ Profile picture was made with https://javier.xyz/pintr/
 <!-- start statics fun section -->
 ### 📃:rocket: GitHub stats:  
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=stokicdusan&show_icons=true&theme=tokyonight&count_private=true&line_height=40'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=stokicdusan&theme=tokyonight&hide_langs_below=4' />
-
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)<img src="/assets/AS002550_06.gif" alt="puyo" width="auto" height="195" />  
 
-[![contrib-graph][contrib-graph-svg]][contrib-graph-url]
-  
+[![contrib-graph][contrib-graph-svg]][contrib-graph-url]  
+
 </div>
 
 <!-- end statics fun section -->
