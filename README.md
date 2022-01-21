@@ -11,9 +11,9 @@
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python and Java, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
 
-Profile picture was made with https://javier.xyz/pintr/
-
-<img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="auto" height="auto" />
+<!-- Profile picture was made with https://javier.xyz/pintr/ -->
+ 
+<img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="25%" height="25%" />
 
 <!-- Start small bullet points -->
 - 🔭 Currently job hunting <!--working as a ... -->
