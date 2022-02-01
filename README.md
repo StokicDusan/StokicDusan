@@ -56,7 +56,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 <!-- end languages and tools -->
 
 <!-- start listening to -->
-### I'm listening to: 
+### 🎵 I'm listening to: 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1vntqq1je121pye43npkvgb8f&cover_image=true&theme=novatorem&bar_color=3465a4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- end listening to -->
