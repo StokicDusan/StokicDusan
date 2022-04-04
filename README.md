@@ -16,7 +16,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 <img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="25%" height="25%" />
 
 <!-- Start small bullet points -->
-- 🔭 Currently job hunting <!--working as a ... -->
+- 🔭 Working as a RAN Solution Architect at Ericsson Serbia<!--Currently job hunting ... -->
 - 🎓 Graduated from School of Electrical Engineering University of Belgrade
 - 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
