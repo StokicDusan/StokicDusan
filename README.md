@@ -12,8 +12,6 @@ I'm a Telecommunications and Information Technologies Engineer from Serbia. I ha
 I'm currently pursuing a master's degree in Information and communication technologies.  
 
 <!-- Profile picture was made with https://javier.xyz/pintr/ -->
- 
-<img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="25%" height="25%" />
 
 <!-- Start small bullet points -->
 - 🔭 Working as a RAN Solution Architect at Ericsson Serbia<!--Currently job hunting ... -->
