@@ -21,7 +21,6 @@ I'm currently pursuing a master's degree in Information and communication techno
 - 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - 🌐 Know more about me on my [portfolio](https://stokicdusan.github.io/) page
-- 😄 Pronouns: He / Him
 - ⚡ Fun fact: 4 has four letters
 <!-- End small bullet points -->
 
