@@ -22,7 +22,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- start how to reach me -->
 ### 📫 How to reach me:  
-[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="36" height="36"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
+[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/) &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
 <!-- end how to reach me -->
 
 <!-- start languages and tools -->
