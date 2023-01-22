@@ -5,18 +5,13 @@
 
 [![Visits Badge](https://badges.strrl.dev/visits/StokicDusan/StokicDusan)](https://badges.strrl.dev)
 
-<!--
-<a href="https://stackexchange.com/users/22050789/du%c5%a1an-stoki%c4%87"><img src="https://stackexchange.com/users/flair/22050789.png" width="208" height="58" alt="profile for Dušan Stokić on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Dušan Stokić on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
--->
-I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the [School of electrical engineering](https://www.etf.bg.ac.rs/en#gsc.tab=0) in Belgrade. I mainly code in Python, MATLAB and Java, but I'm always learning.  
+I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the School of electrical engineering in Belgrade. I mainly code in Python and MATLAB, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
 
 <!-- Profile picture was made with https://javier.xyz/pintr/ -->
- 
-<img src="/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat" align="right" width="25%" height="25%" />
 
 <!-- Start small bullet points -->
-- 🔭 Currently job hunting <!--working as a ... -->
+- 🔭 Working as a RAN Solution Architect at Ericsson Serbia<!--Currently job hunting ... -->
 - 🎓 Graduated from School of Electrical Engineering University of Belgrade
 - 🌱 Currently learning Node.js and Express.js
 - 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
@@ -26,7 +21,7 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- start how to reach me -->
 ### 📫 How to reach me:  
-[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="36" height="36"/>](https://www.facebook.com/stokicdusan/)  &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
+[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/) &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
 <!-- end how to reach me -->
 
 <!-- start languages and tools -->
