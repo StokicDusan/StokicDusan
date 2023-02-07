@@ -67,8 +67,6 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- end statics fun section -->
 
-[contrib-graph-url]: https://github.com/yoshi389111/github-profile-3d-contrib
-
 #
 
 <div align="center">
