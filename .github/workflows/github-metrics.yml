@@ -1,10 +1,11 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # cron(Minutes Hours Day-of-month Month Day-of-week Year)
+  schedule: [{cron: "0 9 * * MON"}]
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
