@@ -59,6 +59,8 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 </div>
 
+![Half-year calendar](/metrics-isocalendar.svg)
+
 <!-- end statics fun section -->
 
 #
