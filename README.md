@@ -21,11 +21,11 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- start how to reach me -->
 ### 📫 How to reach me:  
-[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/) &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>
+[<img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="36" height="36"/>](https://discord.gg/Hzh9rMaQ3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="36" height="36"/>](https://twitter.com/stokicdusan)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="36" height="36"/>](https://www.linkedin.com/in/stokicdusan/) &nbsp; <a href="mailto:stokicdusan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="36" height="36"/>  
 <!-- end how to reach me -->
 
 <!-- start languages and tools -->
-### 👨🏻‍💻 Languages and Tools: <br />
+### 👨🏻‍💻 Languages and Tools: <br />  
 <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img src="assets/icons/icons8-java.svg" alt="java" width="48" height="48"/> </a>
 <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img src="assets/icons/icons8-mysql-logo.svg" alt="mysql" width="48" height="48"/> </a>
 <a href="https://www.wampserver.com/en/" target="_blank"><img src="assets/icons/wampServer-logo1.svg" alt="wamp" width="48" height="48" /> </a>
