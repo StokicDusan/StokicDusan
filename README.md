@@ -3,7 +3,7 @@
 <a href="https://stackoverflow.com/users/16315116/du%c5%a1an-stoki%c4%87"><img src="https://stackoverflow.com/users/flair/16315116.png?theme=dark" width="208" height="58" alt="profile for Dušan Stokić at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dušan Stokić at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <a href="https://tex.stackexchange.com/users/245337/du%c5%a1an-stoki%c4%87"><img src="https://tex.stackexchange.com/users/flair/245337.png?theme=dark" width="208" height="58" alt="profile for Dušan Stokić at TeX - LaTeX Stack Exchange, Q&amp;A for users of TeX, LaTeX, ConTeXt, and related typesetting systems" title="profile for Dušan Stokić at TeX - LaTeX Stack Exchange, Q&amp;A for users of TeX, LaTeX, ConTeXt, and related typesetting systems"></a>
 
-[![Visits Badge](https://badges.strrl.dev/visits/StokicDusan/StokicDusan)](https://badges.strrl.dev)
+![Metrics](/github-metrics.svg)
 
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the School of electrical engineering in Belgrade. I mainly code in Python and MATLAB, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
@@ -62,9 +62,6 @@ I'm currently pursuing a master's degree in Information and communication techno
 [![trophy](https://github-profile-trophy.vercel.app/?username=stokicdusan&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)<img src="/assets/AS002550_06.gif" alt="puyo" width="auto" height="195" />  
-
-![contrib-graph](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
-![contrib-graph](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
 
 </div>
 
