@@ -63,9 +63,6 @@ I'm currently pursuing a master's degree in Information and communication techno
   
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=stokicdusan&theme=tokyonight)<img src="/assets/AS002550_06.gif" alt="puyo" width="auto" height="195" />  
 
-![contrib-graph](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
-![contrib-graph](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-
 </div>
 
 <!-- end statics fun section -->
