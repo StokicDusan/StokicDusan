@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   # Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
-uses: StokicDusan/metrics@latest
+uses: StokicDusan/metrics@main
 with:
   filename: metrics-isocalendar.svg
   token: ${{ secrets.METRICS_TOKEN }}
