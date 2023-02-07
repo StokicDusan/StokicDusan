@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: StokicDusan/metrics@main
+      - uses: StokicDusan/metrics@master
         with:
           output_action: commit
           committer_branch: metrics-renders
