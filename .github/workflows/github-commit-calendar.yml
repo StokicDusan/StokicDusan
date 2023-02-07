@@ -1,4 +1,4 @@
-name: Half-year calendar
+name: Half-year-calendar
 on:
   # Schedule daily updates
   # cron(Minutes Hours Day-of-month Month Day-of-week Year)
