@@ -1,4 +1,4 @@
-name: Half-year-calendar
+name: Half-year calendar
 on:
   # Schedule daily updates
   # cron(Minutes Hours Day-of-month Month Day-of-week Year)
@@ -15,9 +15,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "update calendar"
           filename: metrics-isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
