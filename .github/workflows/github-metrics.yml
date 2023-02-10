@@ -16,21 +16,24 @@ jobs:
       - name: Base
         uses: lowlighter/metrics@latest
         with:
+          filename: ./assets/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: StokicDusan
-          template: "@classic"
+          plugin_languages: yes
+          plugin_languages_ignored: html, scss, css, tex, less, dockerfile, batchfile, makefile, qmake, lex, cmake, gnuplot, vue, scala, ejs
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 10
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
           plugin_topics_sort: stars
 
-      - name: Side
+      - name: Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: side.svg
+          filename: ./assets/iso_calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: StokicDusan
-          template: "@classic"
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
