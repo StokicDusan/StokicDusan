@@ -16,7 +16,7 @@ jobs:
       - name: Base
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/github-metrics.svg
+          filename: assets/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: StokicDusan
           plugin_languages: yes
@@ -31,7 +31,7 @@ jobs:
       - name: Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: ./assets/iso_calendar.svg
+          filename: assets/iso_calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: StokicDusan
           base: ""
