@@ -14,9 +14,8 @@ I'm currently pursuing a master's degree in Information and communication techno
 - 🔭 Working as a RAN Solution Architect at Ericsson Serbia<!--Currently job hunting ... -->
 - 🎓 Graduated from School of Electrical Engineering University of Belgrade
 - 🌱 Currently learning Node.js and Express.js
-- 💬 Ask me about Mathematics, Telecommunications and PuyoPuyo
 - 🌐 Know more about me on my [portfolio](https://stokicdusan.github.io/) page
-- ⚡ Fun fact: 4 has four letters
+- ⚡ Fun fact: $3^3+4^4+3^3+5^5=3435$
 <!-- End small bullet points -->
 
 <!-- start how to reach me -->
