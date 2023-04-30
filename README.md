@@ -64,6 +64,6 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+# Show some ❤️ by starring some of the repositories!
 
 </div>
