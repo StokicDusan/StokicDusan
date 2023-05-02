@@ -37,3 +37,15 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          
+      - name: With worldmap
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/stargazers-worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
