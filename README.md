@@ -65,8 +65,6 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <!-- end statics fun section -->
 
-#
-
 <div align="center">
 
 
