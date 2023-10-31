@@ -1,5 +1,9 @@
 ## Hi there, I'm Dusan 👋
 
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=180&section=header&text=Du%C5%A1an%20Stoki%C4%87%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Page&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+-->
+
 I'm a Telecommunications and Information Technologies Engineer from Serbia. I have a bachelor's degree in Electrical Engineering and Computing from the School of electrical engineering in Belgrade. I mainly code in Python and MATLAB, but I'm always learning.  
 I'm currently pursuing a master's degree in Information and communication technologies.  
 
@@ -65,6 +69,8 @@ I'm currently pursuing a master's degree in Information and communication techno
 
 <div align="center">
 
-# Show some ❤️ by starring some of the repositories!
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:494183,50:199c3d,100:277753&section=footer&height=180&text=Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20starring%20some%20of%20the%20repositories!%20&fontSize=28" width="100%"/>
 
 </div>
